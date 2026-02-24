@@ -515,6 +515,45 @@
         "input_text_color": ""
       }
     },
+    "impact_text_bdNFpL": {
+      "type": "impact-text",
+      "blocks": {
+        "item_d84JdA": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Already 10,000+ smiles transformed.",
+            "content": "<p><strong>And the community keeps growing every day.</strong></p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_d84JdA"
+      ],
+      "custom_css": [
+        "{margin-top: 20px; margin-bottom: -25px;}"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -578,6 +617,7 @@
     "impact_text_DQ6baw",
     "testimonials_P7DMKQ",
     "featured-product",
+    "impact_text_bdNFpL",
     "faq"
   ]
 }
