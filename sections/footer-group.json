@@ -20,11 +20,11 @@
             "icon": "picto-box",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background_type": "circle",
+            "icon_background": "#803cee",
+            "icon_color": "#ffffff",
             "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "content": ""
           }
         },
         "customer-support": {
@@ -33,37 +33,37 @@
             "icon": "picto-customer-support",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "#803cee",
+            "icon_color": "#ffffff",
+            "title": "24/7 Customer Support",
+            "content": ""
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-credit-card",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "#803cee",
+            "icon_color": "#ffffff",
+            "title": "Secure Payment",
+            "content": ""
           }
         },
         "payment": {
           "type": "item",
           "settings": {
-            "icon": "picto-lock",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "icon_background_type": "circle",
+            "icon_background": "#803cee",
+            "icon_color": "#ffffff",
+            "title": "Money-Back Guarantee",
+            "content": ""
           }
         }
       },
