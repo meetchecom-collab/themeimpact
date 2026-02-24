@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Free Shipping",
+            "url": ""
+          }
+        },
+        "message_yrLDmR": {
+          "type": "message",
+          "settings": {
+            "text": "#1 in professional teeth whitening",
+            "url": ""
+          }
+        },
+        "message_YKhjbc": {
+          "type": "message",
+          "settings": {
+            "text": "Valentine's Day Sale",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_yrLDmR",
+        "message_YKhjbc"
       ],
       "settings": {
         "enable_sticky": false,
