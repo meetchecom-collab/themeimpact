@@ -366,24 +366,6 @@
         "testimonial_card_text_color": "#ffffff"
       }
     },
-    "impact-text": {
-      "type": "impact-text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -544,7 +526,6 @@
     "image_with_text_overlay_LVHxYF",
     "impact_text_DQ6baw",
     "testimonials_P7DMKQ",
-    "impact-text",
     "featured-product",
     "faq"
   ]
