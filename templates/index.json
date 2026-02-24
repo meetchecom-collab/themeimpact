@@ -64,6 +64,72 @@
         "text_color": ""
       }
     },
+    "impact_text_w4PUqx": {
+      "type": "impact-text",
+      "blocks": {
+        "item_ikBaxn": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "The difference speaks for itself!",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_ikBaxn"
+      ],
+      "custom_css": [
+        "{margin-top: 20px; margin-bottom: -25px;}"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "before_after_image_gLVrdH": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/Copie_de_Copie_de_Template_section_benefice_1.png",
+        "before_image_mobile": "shopify://shop_images/Copie_de_Copie_de_Template_section_benefice_1.png",
+        "after_image": "shopify://shop_images/Copie_de_Copie_de_Template_section_benefice_10.png",
+        "after_image_mobile": "shopify://shop_images/Copie_de_Copie_de_Template_section_benefice_10.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "settings": {
@@ -236,6 +302,8 @@
   "order": [
     "slideshow",
     "custom_liquid_cgEnpi",
+    "impact_text_w4PUqx",
+    "before_after_image_gLVrdH",
     "impact-text",
     "featured-product",
     "faq"
