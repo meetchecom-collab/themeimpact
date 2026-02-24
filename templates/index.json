@@ -240,45 +240,113 @@
             "content": "<p>I drink coffee every day, and honestly my teeth had really yellowed over time. I tried these strips a little skeptical... and I was blown away. You can really see the difference, even after just a few uses.</p>"
           }
         },
-        "testimonial_q7YgdN": {
+        "testimonial_ETkTzi": {
           "type": "testimonial",
           "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_d89tWH": {
-          "type": "testimonial",
-          "settings": {
+            "image": "shopify://shop_images/laboderma_-_2026-02-18T222539.933.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Ashley M.",
+            "title": "",
+            "content": "<p>I was really self-conscious about my smile. I always smiled while hiding my teeth. Since I started using these strips, I feel so much more comfortable. It sounds silly, but it really changes your confidence.</p>"
           }
         },
-        "testimonial_xRwJFt": {
+        "testimonial_zTVfEw": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/laboderma_-_2026-02-18T222700.807.png",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Brittany V.",
+            "title": "",
+            "content": "<p>I used them on my commute before a date 😅 Super convenient, they stay in place and they're so easy to apply. And most importantly, you can actually see the results. Totally worth it.</p>"
+          }
+        },
+        "testimonial_7HyWHm": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/laboderma_-_2026-02-18T223308.606.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Brandon T.",
+            "title": "",
+            "content": "<p>Before buying, I showed the ingredients to my dentist. He confirmed everything was safe and non-abrasive. That put my mind at ease. And after trying them, I can say they really do work.</p>"
+          }
+        },
+        "testimonial_6pwnWz": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/laboderma_-_2026-02-18T222944.011.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Tyler L.",
+            "title": "",
+            "content": "<p>I've been smoking for years, so my teeth weren't the whitest... I thought it was a lost cause. These strips really surprised me. The change is visible, even for me.</p>"
+          }
+        },
+        "testimonial_Tt6haV": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/laboderma_-_2026-02-18T223228.539.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jason P.",
+            "title": "",
+            "content": "<p>I've tried charcoal, multiple whitening toothpastes, other brands... with no real results. With these, from the very first use, I saw a real difference. I was convinced right away.</p>"
+          }
+        },
+        "testimonial_y7BYEw": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/laboderma_-_2026-02-18T222808.043.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Emily D.",
+            "title": "",
+            "content": "<p>In photos, I always made sure not to smile too much. Since I started using these strips, I don't even think about it anymore. I smile naturally, and it shows.</p>"
+          }
+        },
+        "testimonial_FcyMWE": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/laboderma_-_2026-02-18T223047.877.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Stephanie S.",
+            "title": "",
+            "content": "<p>I thought it was just another marketing gimmick. Turns out, it's simple, fast, and actually works. Really pleasant surprise.</p>"
+          }
+        },
+        "testimonial_LeYAzK": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/075227618e98f8889d0cd5bc040332cc.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Ryan B.",
+            "title": "",
+            "content": "<p>I was worried about sensitivity because I've had bad experiences with other products. With these, zero pain, zero tingling. Just a whiter smile.</p>"
           }
         }
       },
       "block_order": [
         "testimonial_nTNgPK",
-        "testimonial_q7YgdN",
-        "testimonial_d89tWH",
-        "testimonial_xRwJFt"
+        "testimonial_ETkTzi",
+        "testimonial_zTVfEw",
+        "testimonial_7HyWHm",
+        "testimonial_6pwnWz",
+        "testimonial_Tt6haV",
+        "testimonial_y7BYEw",
+        "testimonial_FcyMWE",
+        "testimonial_LeYAzK"
       ],
       "name": "Testimonials",
       "settings": {
