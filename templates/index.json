@@ -186,6 +186,118 @@
         "overlay_opacity": 0
       }
     },
+    "impact_text_DQ6baw": {
+      "type": "impact-text",
+      "blocks": {
+        "item_jHtm64": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Why choose White Smile?",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_jHtm64"
+      ],
+      "custom_css": [
+        "{margin-top: 20px; margin-bottom: -25px;}"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "testimonials_P7DMKQ": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_nTNgPK": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/laboderma_-_2026-02-18T223145.715.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jessica R.",
+            "title": "",
+            "content": "<p>I drink coffee every day, and honestly my teeth had really yellowed over time. I tried these strips a little skeptical... and I was blown away. You can really see the difference, even after just a few uses.</p>"
+          }
+        },
+        "testimonial_q7YgdN": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_d89tWH": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_xRwJFt": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_nTNgPK",
+        "testimonial_q7YgdN",
+        "testimonial_d89tWH",
+        "testimonial_xRwJFt"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#803cee",
+        "testimonial_card_text_color": "#ffffff"
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "settings": {
@@ -362,6 +474,8 @@
     "before_after_image_gLVrdH",
     "impact_text_NWVV9h",
     "image_with_text_overlay_LVHxYF",
+    "impact_text_DQ6baw",
+    "testimonials_P7DMKQ",
     "impact-text",
     "featured-product",
     "faq"
