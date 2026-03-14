@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Free Shipping",
+            "text": "Spedizione gratuita",
             "url": ""
           }
         },
         "message_yrLDmR": {
           "type": "message",
           "settings": {
-            "text": "#1 in professional teeth whitening",
+            "text": "#1 nello sbiancamento denti professionale",
             "url": ""
           }
         },
         "message_YKhjbc": {
           "type": "message",
           "settings": {
-            "text": "Valentine's Day Sale",
+            "text": "Offerta San Valentino",
             "url": ""
           }
         }

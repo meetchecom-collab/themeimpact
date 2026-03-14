@@ -15,8 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Un_effetto_lifting_naturale_visibile_in_poche_settimane_9_dfbb10ad-c109-4e5c-81de-c0450eaa756a.png",
-            "mobile_image": "shopify://shop_images/Un_effetto_lifting_naturale_visibile_in_poche_settimane_9.png",
+            "image": "shopify://shop_images/Un_effetto_lifting_naturale_visibile_in_poche_settimane_10_45179f7f-20e8-41ce-94c0-63823ca19b15.png",
+            "mobile_image": "shopify://shop_images/Un_effetto_lifting_naturale_visibile_in_poche_settimane_10.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -118,8 +118,8 @@
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
+        "before_text": "Prima",
+        "after_text": "Dopo",
         "drag_initial_position": 50,
         "background": "#ffffff",
         "background_gradient": "",
