@@ -23,7 +23,7 @@
             "icon_background_type": "circle",
             "icon_background": "#803cee",
             "icon_color": "#ffffff",
-            "title": "Free shipping",
+            "title": "Spedizione Gratuita",
             "content": ""
           }
         },
@@ -36,7 +36,7 @@
             "icon_background_type": "circle",
             "icon_background": "#803cee",
             "icon_color": "#ffffff",
-            "title": "24/7 Customer Support",
+            "title": "Assistenza Clienti 24/7",
             "content": ""
           }
         },
@@ -49,7 +49,7 @@
             "icon_background_type": "circle",
             "icon_background": "#803cee",
             "icon_color": "#ffffff",
-            "title": "Secure Payment",
+            "title": "Pagamento Sicuro",
             "content": ""
           }
         },
@@ -62,7 +62,7 @@
             "icon_background_type": "circle",
             "icon_background": "#803cee",
             "icon_color": "#ffffff",
-            "title": "Money-Back Guarantee",
+            "title": "Garanzia di Rimborso",
             "content": ""
           }
         }
