@@ -235,9 +235,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Jessica R.",
+            "author": "Gulia R.",
             "title": "",
-            "content": "<p>I drink coffee every day, and honestly my teeth had really yellowed over time. I tried these strips a little skeptical... and I was blown away. You can really see the difference, even after just a few uses.</p>"
+            "content": "<p>Bevo caffè ogni giorno e con il tempo i miei denti si erano davvero ingialliti. Ho provato queste strisce con un po' di scetticismo... e sono rimasta senza parole. Si vede davvero la differenza, anche dopo pochi utilizzi.</p>"
           }
         },
         "testimonial_ETkTzi": {
@@ -247,21 +247,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Ashley M.",
+            "author": "Patricia M.",
             "title": "",
-            "content": "<p>I was really self-conscious about my smile. I always smiled while hiding my teeth. Since I started using these strips, I feel so much more comfortable. It sounds silly, but it really changes your confidence.</p>"
-          }
-        },
-        "testimonial_zTVfEw": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/laboderma_-_2026-02-18T222700.807.png",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Brittany V.",
-            "title": "",
-            "content": "<p>I used them on my commute before a date 😅 Super convenient, they stay in place and they're so easy to apply. And most importantly, you can actually see the results. Totally worth it.</p>"
+            "content": "<p>Ero davvero a disagio con il mio sorriso. Sorridevo sempre nascondendo i denti. Da quando ho iniziato a usare queste strisce, mi sento molto più a mio agio. Sembra una sciocchezza, ma cambia davvero la fiducia in sé stessi.</p>"
           }
         },
         "testimonial_7HyWHm": {
@@ -271,9 +259,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Brandon T.",
+            "author": "Georgio.T",
             "title": "",
-            "content": "<p>Before buying, I showed the ingredients to my dentist. He confirmed everything was safe and non-abrasive. That put my mind at ease. And after trying them, I can say they really do work.</p>"
+            "content": "<p>Le ho usate durante il tragitto prima di un appuntamento 😅 Super comode, restano in posizione e sono facilissime da applicare. E soprattutto, i risultati si vedono davvero. Ne vale assolutamente la pena.</p>"
           }
         },
         "testimonial_6pwnWz": {
@@ -283,9 +271,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Tyler L.",
+            "author": "Silvio.S",
             "title": "",
-            "content": "<p>I've been smoking for years, so my teeth weren't the whitest... I thought it was a lost cause. These strips really surprised me. The change is visible, even for me.</p>"
+            "content": "<p>Prima di acquistarle, ho mostrato gli ingredienti al mio dentista. Ha confermato che erano sicuri e non abrasivi. Questo mi ha tranquillizzato. E dopo averle provate, posso dire che funzionano davvero.</p>"
           }
         },
         "testimonial_Tt6haV": {
@@ -295,9 +283,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Jason P.",
+            "author": "Antonio.L",
             "title": "",
-            "content": "<p>I've tried charcoal, multiple whitening toothpastes, other brands... with no real results. With these, from the very first use, I saw a real difference. I was convinced right away.</p>"
+            "content": "<p>Fumo da anni, quindi i miei denti non erano i più bianchi... Pensavo fosse un caso perso. Queste strisce mi hanno davvero sorpreso. Il cambiamento è visibile, anche per me.</p>"
           }
         },
         "testimonial_y7BYEw": {
@@ -307,9 +295,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Emily D.",
+            "author": "Jessica D.",
             "title": "",
-            "content": "<p>In photos, I always made sure not to smile too much. Since I started using these strips, I don't even think about it anymore. I smile naturally, and it shows.</p>"
+            "content": "<p>Ho provato il carbone, diversi dentifrici sbiancanti, altri marchi... senza risultati concreti. Con queste, già al primo utilizzo, ho visto una vera differenza. Sono stato convinto subito.</p>"
           }
         },
         "testimonial_FcyMWE": {
@@ -319,9 +307,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Stephanie S.",
+            "author": "Monica S.",
             "title": "",
-            "content": "<p>I thought it was just another marketing gimmick. Turns out, it's simple, fast, and actually works. Really pleasant surprise.</p>"
+            "content": "<p>Nelle foto, facevo sempre attenzione a non sorridere troppo. Da quando ho iniziato a usare queste strisce, non ci penso nemmeno più. Sorrido in modo naturale, e si vede.</p>"
           }
         },
         "testimonial_LeYAzK": {
@@ -333,14 +321,13 @@
             "rating": 5,
             "author": "Ryan B.",
             "title": "",
-            "content": "<p>I was worried about sensitivity because I've had bad experiences with other products. With these, zero pain, zero tingling. Just a whiter smile.</p>"
+            "content": "<p>Pensavo fosse l'ennesimo trovata di marketing. Invece è semplice, veloce e funziona davvero. Una piacevole sorpresa.</p>"
           }
         }
       },
       "block_order": [
         "testimonial_nTNgPK",
         "testimonial_ETkTzi",
-        "testimonial_zTVfEw",
         "testimonial_7HyWHm",
         "testimonial_6pwnWz",
         "testimonial_Tt6haV",
