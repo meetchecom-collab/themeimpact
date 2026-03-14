@@ -594,50 +594,50 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "What is PAP?",
-            "content": "<p>Our PAP formula is based on a next-generation whitening technology, gentler and smarter than peroxide.PAP works directly on stains by oxidizing them at the molecular level, without damaging enamel or causing sensitivity.We've enriched it with hydroxyapatite, known to help remineralize and strengthen enamel, along with potassium citrate to prevent tooth sensitivity.The result is professional-quality whitening that visibly brightens your teeth while protecting and strengthening them.</p>"
+            "title": "Cos'è il PAP?",
+            "content": "<p>La nostra formula PAP si basa su una tecnologia di sbiancamento di nuova generazione, più delicata e intelligente del perossido. Il PAP agisce direttamente sulle macchie ossidandole a livello molecolare, senza danneggiare lo smalto né causare sensibilità. L'abbiamo arricchita con idrossiapatite, nota per aiutare a rimineralizzare e rinforzare lo smalto, insieme al citrato di potassio per prevenire la sensibilità dentale. Il risultato è uno sbiancamento di qualità professionale che illumina visibilmente i denti proteggendoli e rinforzandoli allo stesso tempo.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Are WhiteSmile products safe?",
-            "content": "<p>Yes, WhiteSmile products are designed to be safe when used as directed. They are formulated with ingredients approved by health authorities, such as low-concentration hydrogen peroxide or carbamide peroxide, commonly used in dental care.Additionally, they are tested to ensure they are safe for both enamel and gums.</p>"
+            "title": "I prodotti WhiteSmile sono sicuri?",
+            "content": "<p>Sì, i prodotti WhiteSmile sono progettati per essere sicuri se utilizzati come indicato. Sono formulati con ingredienti approvati dalle autorità sanitarie, come il perossido di idrogeno a bassa concentrazione o il perossido di carbamide, comunemente utilizzati in odontoiatria. Inoltre, sono testati per garantire che siano sicuri sia per lo smalto che per le gengive.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Is WhiteSmile right for me?",
-            "content": "<p>Yes. WhiteSmile was designed to work with all smiles, no matter your starting point.If you're looking for a simple, gentle solution that's easy to fit into your daily routine, WhiteSmile is made for you.</p>"
+            "title": "WhiteSmile è adatto a me?",
+            "content": "<p>Sì. WhiteSmile è stato pensato per adattarsi a tutti i sorrisi, qualunque sia il tuo punto di partenza. Se cerchi una soluzione semplice, delicata e facile da integrare nella tua routine quotidiana, WhiteSmile è fatto per te.</p>"
           }
         },
         "item_VmeCVk": {
           "type": "item",
           "settings": {
-            "title": "Will I really see a difference?",
-            "content": "<p>Most users notice a gradual and natural change from the very first uses.WhiteSmile's goal isn't an artificial effect, but a brighter and fresher smile, day after day.</p>"
+            "title": "Vedrò davvero una differenza?",
+            "content": "<p>La maggior parte degli utenti nota un cambiamento graduale e naturale già dai primi utilizzi. L'obiettivo di WhiteSmile non è un effetto artificiale, ma un sorriso più luminoso e fresco, giorno dopo giorno.</p>"
           }
         },
         "item_BRehPF": {
           "type": "item",
           "settings": {
-            "title": "How long before I see results?",
-            "content": "<p>It varies from person to person, but many notice an improvement after 30 minutes.Results build progressively, for a natural and long-lasting outcome.</p>"
+            "title": "Quanto tempo prima di vedere i risultati?",
+            "content": "<p>Varia da persona a persona, ma molti notano un miglioramento dopo 30 minuti. I risultati si costruiscono progressivamente, per un effetto naturale e duraturo.</p>"
           }
         },
         "item_QgwCbE": {
           "type": "item",
           "settings": {
-            "title": "Will it work if I've already tried other solutions without success?",
-            "content": "<p>Yes. Many of our customers had already tried other alternatives before WhiteSmile.What they appreciate here is the simple, gentle and consistent approach, which makes all the difference over time.</p>"
+            "title": "Funzionerà se ho già provato altre soluzioni senza successo?",
+            "content": "<p>Sì. Molti dei nostri clienti avevano già provato altre alternative prima di WhiteSmile. Ciò che apprezzano qui è l'approccio semplice, delicato e costante, che fa tutta la differenza nel tempo.</p>"
           }
         },
         "item_8hbUGc": {
           "type": "item",
           "settings": {
-            "title": "What if I'm not satisfied?",
-            "content": "<p>You can order with complete peace of mind.</p><p>If WhiteSmile doesn't work for you, our customer support team is here to help find a solution.</p><p>Your satisfaction is our priority.</p>"
+            "title": "E se non sono soddisfatto?",
+            "content": "<p>Puoi ordinare in tutta tranquillità. Se WhiteSmile non fa per te, il nostro team di assistenza clienti è qui per trovare una soluzione. La tua soddisfazione è la nostra priorità.</p>"
           }
         }
       },
@@ -656,8 +656,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "03:46Il nostro servizio clienti è disponibile dal lunedì al venerdì: 8:00–20:30",
+        "answer_time": "Tempo medio di risposta: 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
