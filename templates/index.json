@@ -407,8 +407,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Ingredients",
-            "content": "<p>A carefully selected formula for safe and effective whitening:</p><p>PAP Whitening Complex – Gently removes stains with zero sensitivity and no enamel damage.</p><p>Purple Correcting Technology – Instantly neutralizes yellow tones for an immediate brightening effect.</p><p>Coconut Oil – Supports gum health while enhancing the whitening process.</p><p>Menthol – Delivers a long-lasting fresh feeling and clean breath.</p>",
+            "title": "Ingredienti",
+            "content": "<p><strong>Una formula selezionata con cura per uno sbiancamento sicuro ed efficace :</strong></p><p><strong>Complesso Sbiancante PAP</strong> – Rimuove delicatamente le macchie senza sensibilità e senza danneggiare lo smalto.</p><p><strong>Tecnologia Viola Correttiva</strong> – Neutralizza istantaneamente i toni gialli per un effetto illuminante immediato.</p><p><strong>Olio di Cocco</strong> – Supporta la salute delle gengive potenziando il processo di sbiancamento.</p><p><strong>Mentolo</strong> – Dona una sensazione di freschezza duratura e un alito pulito.</p>",
             "page": ""
           }
         },
@@ -417,8 +417,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Description",
-            "content": "<p>Discover WHITESMILE violet whitening strips for teeth. A revolutionary breakthrough in instant whitening that delivers visible results the moment you take them off.</p><p>Our revolutionary purple color-correcting technology neutralizes yellow tones on contact for an immediately brighter smile. Our peroxide-free PAP formula keeps working to remove deep stains caused by coffee, wine, cigarettes and more.</p><p>How to use:</p><ol><li>Apply – Place the strip on clean, dry teeth.</li><li>Wait 30 minutes – The strip works while you go about your day.</li><li>Remove & rinse – Peel off the strip and rinse if needed.</li><li>Brighter smile – Repeat daily for 7 days or until you reach your desired results.</li></ol>",
+            "title": "Descrizione",
+            "content": "<p><strong>Scopri le strisce sbiancanti viola WHITESMILE. Una rivoluzione nell'istantaneità che offre risultati visibili nel momento stesso in cui le togli.</strong></p><p>La nostra rivoluzionaria tecnologia viola correttiva neutralizza i toni gialli al contatto per un sorriso immediatamente più luminoso. La nostra formula PAP senza perossido continua ad agire per eliminare le macchie profonde causate da caffè, vino, sigarette e altro ancora.</p><p><strong>Come si usa :</strong></p><p><strong>1. Applica</strong> – Posiziona la striscia sui denti puliti e asciutti.</p><p><strong>2. Aspetta 30 minuti</strong> – La striscia agisce mentre continui la tua giornata.</p><p><strong>3. Rimuovi e sciacqua</strong> – Stacca la striscia e sciacqua se necessario.</p><p><strong>4. Sorriso più luminoso</strong> – Ripeti ogni settimana per 7 settimane o fino a raggiungere il risultato desiderato.</p>",
             "page": ""
           }
         },
@@ -427,8 +427,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Benefits",
-            "content": "<p>Instant results, no waiting. A visibly whiter smile the moment you remove the strips. No need to wait days to see the difference.</p><p>Purple correcting technology. Instantly neutralizes yellow tones on contact for immediate brightness, visible from the very first use.</p><p>Progressive and long-lasting whitening. Up to 7 shades whiter with regular use, with zero sensitivity.</p><p>Instant confidence boost. Perfect before a photo, a date, or any moment you want to show off a brighter smile.</p><p>Enamel safe. A safe, peroxide-free formula designed to protect the health of your teeth.</p><p>Simple and convenient. Just one application a day. No gel, no trays — fast, clean and effective.</p>",
+            "title": "Benefici",
+            "content": "<p><strong>Risultati immediati, senza attesa.</strong> Un sorriso visibilmente più bianco nel momento stesso in cui togli le strisce. Nessun bisogno di aspettare giorni per vedere la differenza.</p><p><strong>Tecnologia viola correttiva.</strong> Neutralizza istantaneamente i toni gialli al contatto per una luminosità immediata, visibile già dal primo utilizzo.</p><p><strong>Sbiancamento progressivo e duraturo.</strong> Fino a 7 sfumature più bianche con un uso regolare, con zero sensibilità.</p><p><strong>Boost di fiducia immediato.</strong> Perfetto prima di una foto, un appuntamento o qualsiasi momento in cui vuoi sfoggiare un sorriso più luminoso.</p><p><strong>Sicuro per lo smalto.</strong> Una formula sicura e senza perossido, pensata per proteggere la salute dei tuoi denti.</p><p><strong>Semplice e pratico.</strong> Solo un'applicazione a settimana. Niente gel, niente paradenti — rapido, pulito ed efficace.</p>",
             "page": ""
           }
         },
@@ -437,8 +437,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Shipping & Returns",
-            "content": "<p>Processing takes 1 to 2 business days before shipment.</p><p>We offer a risk-free 14-day guarantee.</p><p>If for any reason you're not satisfied, we'll give you a full refund, no questions asked.</p>",
+            "title": "Spedizione e Resi",
+            "content": "<p><strong>La preparazione richiede 1-2 giorni lavorativi prima della spedizione.</strong></p><p><strong>Offriamo una garanzia di 14 giorni senza rischi.</strong><br/>Se per qualsiasi motivo non sei soddisfatto, ti rimborsiamo completamente, senza fare domande.</p>",
             "page": ""
           }
         }
